@@ -1,0 +1,7 @@
+disnake
+pytube
+deep-translator
+requests
+googlesearch-python==1.2.4
+better_profanity
+json
