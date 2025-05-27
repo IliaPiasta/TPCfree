@@ -88,10 +88,6 @@ TPC_BOT/
 
 1. Install dependencies:
 
-```bash
-pip install disnake
-```
-
 ```bush
 pip install -r requirements.txt
 ```
