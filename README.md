@@ -119,7 +119,7 @@ python main.py
 ## 🙌 Contact Information
 
 If you have questions, ideas, or want to contribute — join the support server or contact me directly.
-Questions or suggestions? Open an [Issue](https://github.com/IliaPiasta/TPCfree/issues) or email factsmens@gmail.com
+Questions or suggestions(code)? Open an [Issue](https://github.com/IliaPiasta/TPCfree/issues) or email factsmens@gmail.com
 
 
 ---
