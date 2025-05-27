@@ -92,6 +92,11 @@ TPC_BOT/
 pip install disnake
 ```
 
+```bush
+pip install -r requirements.txt
+```
+
+
 2. Set the `TOKEN` variable in `main.py` with your Discord bot token.
 
 3. Run the bot:
