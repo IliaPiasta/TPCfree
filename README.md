@@ -81,6 +81,7 @@ TPC_BOT/
 │   └── rolemenu.py        # Role menu extension
 └── utils/
     └── helpers.py         # Bot utilities
+*That’s the new version (it will be available soon)
 ```
 
 ---
