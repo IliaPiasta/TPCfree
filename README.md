@@ -13,6 +13,7 @@
 
 The bot is actively used in communities and has positive feedback. You can check out its page on [top.gg](https://top.gg/bot/1196199588558819449) for more info, ratings, and reviews.
 
+📄 [Terms of Use](./TERMS.md)
 ---
 
 ![TPC BOT Additional](https://i.imgur.com/9JavKJc.jpeg)
