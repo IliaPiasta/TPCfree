@@ -1,4 +1,4 @@
-
+![info](https://static.vecteezy.com/system/resources/previews/021/433/032/non_2x/important-rubber-stamp-free-png.png)
 # Terms of Use
 
 ## 1. Attribution Requirement
