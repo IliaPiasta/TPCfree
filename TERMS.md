@@ -5,7 +5,7 @@
 
 By using, copying, or significantly modifying this repository **TPCfree**, you automatically agree to the following binding terms:
 
-If **your project includes 82% or more** of the code, logic, or structure from this repository — whether modified or not — you are **required to provide visible attribution** in the public description of your bot on any and all listing platforms (such as top.gg, discord.bots.gg, etc.).
+If **your project includes 92% or more** of the code, logic, or structure from this repository — whether modified or not — you are **required to provide visible attribution** in the public description of your bot on any and all listing platforms (such as top.gg, discord.bots.gg, etc.).
 
 The attribution must include the following text (or equivalent meaning):
 
